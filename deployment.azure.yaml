@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: acr112.azurecr.io/angular-app:#{Build.BuildId}#
+        image: acr237.azurecr.io/angular-app:#{Build.BuildId}#
         ports: 
         - containerPort: 80 
 --- 
