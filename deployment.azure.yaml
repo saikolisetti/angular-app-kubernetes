@@ -17,7 +17,7 @@ spec:
         image: acrdev5.azurecr.io/angular-app:#{Build.BuildId}#
         ports: 
         - containerPort: 80 
-## test        
+## test2        
 --- 
 # https://kubernetes.io/docs/concepts/services-networking/service/#defining-a-service  
 kind: Service 
